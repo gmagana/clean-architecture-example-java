@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 2/Clients/ClientAppContainer/ClientAppContainer.iml" filepath="$PROJECT_DIR$/Abstraction Level 2/Clients/ClientAppContainer/ClientAppContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 1.5/ClientBoundary/ClientBoundary.iml" filepath="$PROJECT_DIR$/Abstraction Level 1.5/ClientBoundary/ClientBoundary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 2/Clients/ClientSharedObjects/ClientSharedObjects.iml" filepath="$PROJECT_DIR$/Abstraction Level 2/Clients/ClientSharedObjects/ClientSharedObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 2/Clients/CommandLineScript1/CommandLineScript1.iml" filepath="$PROJECT_DIR$/Abstraction Level 2/Clients/CommandLineScript1/CommandLineScript1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 2/Clients/CommandLineScript2/CommandLineScript2.iml" filepath="$PROJECT_DIR$/Abstraction Level 2/Clients/CommandLineScript2/CommandLineScript2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 2/Data Stores/DataStore/DataStore.iml" filepath="$PROJECT_DIR$/Abstraction Level 2/Data Stores/DataStore/DataStore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 0/Entities/Entities.iml" filepath="$PROJECT_DIR$/Abstraction Level 0/Entities/Entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 1/Interactor/Interactor.iml" filepath="$PROJECT_DIR$/Abstraction Level 1/Interactor/Interactor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 1/InteractorDataModels/InteractorDataModels.iml" filepath="$PROJECT_DIR$/Abstraction Level 1/InteractorDataModels/InteractorDataModels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Abstraction Level 1/InteractorPlugin/InteractorPlugin.iml" filepath="$PROJECT_DIR$/Abstraction Level 1/InteractorPlugin/InteractorPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clean-architecture-example-java.iml" filepath="$PROJECT_DIR$/clean-architecture-example-java.iml" />
+    </modules>
+  </component>
+</project>
